@@ -24,7 +24,7 @@ This year we have prepared a different Christmas greeting: a small videogame whe
 
 We hope you enjoy it!
 
-[Click here to open the game in English]()
+[Click here to open the game in English](https://fr3nd.github.io/nadal2021/nadal2021_en/build/web/)
 
 PS: There are some weird Catalan traditions appearing in the game. More info about them:
 * https://en.wikipedia.org/wiki/Ti%C3%B3_de_Nadal

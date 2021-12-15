@@ -1,6 +1,6 @@
 # 🎅🏻 Bon Nadal! Merry Christmas! 🎄
 
-> 🇬🇧 See below for [English](#English) version
+> 🇬🇧 See below for [English](#english) version
 
 ## Català
 

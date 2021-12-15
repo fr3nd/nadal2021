@@ -54,3 +54,14 @@ about them:
 ![Home](/img/home.png)
 ![Park](/img/park.png)
 ![Forest](/img/forest.png)
+
+## ROM Download
+
+El joc també està disponible en format ROM per ser jugat en emuladors o en una
+Game Boy real.
+
+The game is also available in ROM format to be played in emulators or in a real
+Game Boy.
+
+* [Catalan version](/build/rom/game.gb)
+* [English version](/nadal2021_en/build/rom/game.gb)

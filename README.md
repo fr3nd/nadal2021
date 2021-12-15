@@ -63,5 +63,5 @@ Game Boy real.
 The game is also available in ROM format to be played in emulators or in a real
 Game Boy.
 
-* [Catalan version](/build/rom/game.gb)
-* [English version](/nadal2021_en/build/rom/game.gb)
+- [Catalan version](/build/rom/game.gb)
+- [English version](/nadal2021_en/build/rom/game.gb)
